@@ -1,18 +1,18 @@
-http://arthackday.net/319scholes/#projects
-http://eyewriter.org/
-http://blprnt.com/
-http://aliciagibb.com/hacking/projects
-http://fffff.at/
-http://sbpress.com/2012/02/encountering-data/
-http://emedia.art.sunysb.edu/cDACT/?p=118
-http://www.media.mit.edu/
-http://en.wikipedia.org/wiki/Interactive_art
-http://www.moma.org/interactives/exhibitions/2008/elasticmind/
-http://www.youtube.com/watch?v=qybUFnY7Y8w
-http://peripheriques.free.fr/blog/index.php?/works/2011-internettopography/
-http://peripheriques.free.fr/blog/index.php?/works/2008-earthtodisk/
-http://www.youtube.com/watch?v=ZIGzpi9lCck
-http://www.youtube.com/watch?v=_sUeGC-8dyk
-http://wekinator.cs.princeton.edu/
-http://www.thismusicisfalse.com/?portfolio=2010-the-third-pixel
-https://docs.google.com/a/jedahan.com/presentation/d/16-P4ndTyoSJTMeih_9IaVPIUuzKrLKmVQsugxYN-vYM/edit#slide=id.gc4965f5_1_181
+* http://arthackday.net/319scholes/#projects
+* http://eyewriter.org/
+* http://blprnt.com/
+* http://aliciagibb.com/hacking/projects
+* http://fffff.at/
+* http://sbpress.com/2012/02/encountering-data/
+* http://emedia.art.sunysb.edu/cDACT/?p=118
+* http://www.media.mit.edu/
+* http://en.wikipedia.org/wiki/Interactive_art
+* http://www.moma.org/interactives/exhibitions/2008/elasticmind/
+* http://www.youtube.com/watch?v=qybUFnY7Y8w
+* http://peripheriques.free.fr/blog/index.php?/works/2011-internettopography/
+* http://peripheriques.free.fr/blog/index.php?/works/2008-earthtodisk/
+* http://www.youtube.com/watch?v=ZIGzpi9lCck
+* http://www.youtube.com/watch?v=_sUeGC-8dyk
+* http://wekinator.cs.princeton.edu/
+* http://www.thismusicisfalse.com/?portfolio=2010-the-third-pixel
+* https://docs.google.com/a/jedahan.com/presentation/d/16-P4ndTyoSJTMeih_9IaVPIUuzKrLKmVQsugxYN-vYM/edit#slide=id.gc4965f5_1_181
