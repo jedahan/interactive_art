@@ -3,17 +3,15 @@
   Thank you for attending this talk, its a big leap of faith for something with almost no description on Friday night.
   If all goes according to plan, you will be inspired by awesome interactive art that will blow your minds and ask 'how did they do that', then I will try and convince everyone in this room that they can do ANYTHING they can imagine, and if you don't think I'm a crackpot after that is over, we will get to the meat of the talk where I describe a useful framework that's helped me create art and finish off with some basic training in the tools common to that framework.
 
-  The talk should about 45 minutes, leaving time to discuss and share your own ideas and experiences. Please write down any thoughts during it all! Also, COOKIES!
+  The talk should about 45 minutes, leaving time to discuss and share your own ideas and experiences. Please write down any thoughts during it all! The only interruption I am ok with is asking to define a term.
 
 ## WHOAH (Keanu)
   * Bike-In movie
-  * Everything from art hack day
+  * ArtHackDay
   * EyeWriter
   * Jer Thorpe
   * Alicia Gibb
   * Encountering Data
-  * Island Labs
-  * COOL SHIT RITE?
   
   All the art you just saw was built with a mix of experimentation and collaboration. Just a quick overview of what phases are involved in any creative endeavor:
 
@@ -127,73 +125,52 @@
 
   So if data is just a number, how does that help us in creating art that is interactive? Well, there are a million ways to map actions or events to data, as there are a million ways to tap into that data and react with other actions and events. By the way, I am just going to drop 'physical and virtual' prefixes from now on. If you care to talk about where the line blurs near the edges of those realms, drop me a line after the talk.
 
-  Sources
-    - go through examples we've seen
-      identify data source
-               data sink
+  Just to make sure we are on the same page, let's identify some sources and sinks in pieces.
 
-      bike-in movie
-        source: ??? bike
-        sink: ??? movie
+    Bike-In Movie
+    ScratchML
+      (with canv.as)
+    Floating Sphere
+      does it work? NO!
+      this is where my method breaks down
+      if i wanted to force the chain method with toby's piece, i'd say
+        harumph 'clearly, the source is the sphere, and the sink is the people trying to go the bathroom'
+    Encountering Data ending concert (for sink-only example)
 
-      another example
+# Tools
+## Physical
+  - Arduino
+  - Raspberry Pi
+  - more traditional computers/laptops
+  - smartphones
 
-      scratchml
-        source: kinda easy, record table, a dj scratching
-        sink: ??? no sink!
-
-        a sink: canv.as (4chan), incorporated the data
-
-        floating sphere?
-          this is where my method breaks down
-          if i wanted to force the chain method with toby's piece, i'd say
-            harumph 'clearly, the source is the sphere, and the sink is the people trying to go the bathroom'
-
-  - inputs
-  		- since data is all encompasing, it isn't useful to think about on its own
-  			- but its super useful to know that everything is just data
-  	- 1 or more people manipulating controls
-  	- gathering generated data (twitter)
-  		- ex: berke's screensaver
-  		- ex: the concert @ encountering data
-
-  - outputs
-  		- 
-
-Terms
-  - Procedural art
-    algorithmically generated sights, sounds, and tastes
-  - Time-Based media
-  	any media that changes over time. you may or may not intend to make time-based media (see statue of liberty)
-  - Data
-    just a number
-  - Map
-    to take something and represent it in a reproducable, defined manner
-
-Tools
-  - Physical
-    - Arduino
-    - Raspberry Pi
-      - more traditional computers/laptops
-      - smartphones
-
-  - Virtual
-    - Processing
-    - Max/MSP
-    - Wekinator
-      - Alchemy
-      - Flex
+## Virtual
+  - Processing
+  - Max/MSP
+  - Wekinator
+    - Alchemy
+    - Flex
 
   - Protocols
     - OSC, MIDI, websockets
 
-  - Spaces
-    - physical
-      gallery (319 scholes)
-      event (I-Con)
-      public (toby's installation in apartment building)
-      museum (MoMA)
-    - virtual
-      (_GALERIES HERE_)
-    - transcendant 
-      mit touchpoints
+## Spaces
+  - physical
+    gallery (319 scholes)
+    event (I-Con)
+    public (toby's installation in apartment building)
+    museum (MoMA)
+  - virtual
+    (_GALERIES HERE_)
+  - transcendant 
+    mit touchpoints
+
+# Terms
+  - Procedural art
+    algorithmically generated sights, sounds, and tastes
+  - Time-Based media
+    any media that changes over time. you may or may not intend to make time-based media (see statue of liberty)
+  - Data
+    just a number
+  - Map
+    to take something and represent it in a reproducable, defined manner
